@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="proybal" id="f8a451f3-97db-4b43-90a6-d71745110e74">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
